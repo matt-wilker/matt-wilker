@@ -1,5 +1,10 @@
 ## Hi, I'm Matt - Welcome to my GitHub profile!👋
 
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{matt-wilker}/count.svg" alt="Visitor Count" />
+</div>
+
 ### *Who am I?* 🩺🖥🧬
   - Recent graduate from McMaster University in Hamilton, ON from the **Mechatronics and Biomedical Engineering** program
   - Currently searching for an entry-level software/hardware/firmware engineering role (primarily in British Columbia, Canada)
@@ -22,19 +27,12 @@
           - *Main Contributions*
               - Collected data to test image processing capabilities
               - Set up game controller in Python, allowing user to input images of current hand after each decision 
-              - Helped utilize OpenCV to process input images and read card values using OCR algorithm 
+              - Helped utilize OpenCV to process input images and read card values using OCR algorithm
 
-<!--
-**matt-wilker/matt-wilker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### *What languages/tools do I have experience with?* 🛠
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,py,c,cs,cpp,matlab,bash,swift,arduino,raspberrypi" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,git,firebase,postman,linux,opencv" />
+</p>
