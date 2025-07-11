@@ -1,9 +1,6 @@
 ## Hi, I'm Matt - Welcome to my GitHub profile!👋
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{matt-wilker}/count.svg" alt="Visitor Count" />
-</div>
+![](https://komarev.com/ghpvc/?username=matt-wilker&color=orange&style=for-the-badge)
 
 ### *Who am I?* 🩺🖥🧬
   - Recent graduate from McMaster University in Hamilton, ON from the **Mechatronics and Biomedical Engineering** program
