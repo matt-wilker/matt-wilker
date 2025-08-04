@@ -4,7 +4,7 @@
 
 ### *Who am I?* 🩺🖥🧬
   - Recent graduate from McMaster University in Hamilton, ON from the **Mechatronics and Biomedical Engineering** program
-  - Currently searching for an entry-level software/hardware/firmware engineering role (primarily in British Columbia, Canada)
+  - Currently searching for an entry-level software/hardware/firmware engineering role (primarily in Western Canada)
 
 ### *How to contact me?* 📱
   - Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/matt-wilker/)
